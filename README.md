@@ -12,5 +12,5 @@ In our project, we simulated a parachute jump. Typically, parachute jump simulat
 - **Python**: For performing the simulations.
 - **Libraries**: math, numpy, sympy, scipy, scipy.integrate, matplotlib.pyplot, scipy.optimize
 
-- All results and analyses are presented in Polish.
+All results and analyses are presented in Polish.
 
